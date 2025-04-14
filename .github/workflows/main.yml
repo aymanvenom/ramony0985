@@ -1,4 +1,4 @@
-name: TOOLBOXLAP- LiteManager
+name: TOOLBOXLAP
 
 on:
   workflow_dispatch:
